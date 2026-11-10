@@ -1,5 +1,5 @@
 // Para publicar uma atualização, mude o número da versão abaixo.
-const CACHE = 'treino-v1';
+const CACHE = 'treino-v3';
 const ARQUIVOS = ['./', 'index.html', 'style.css', 'app.js', 'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png'];
 
 self.addEventListener('install', e => {
